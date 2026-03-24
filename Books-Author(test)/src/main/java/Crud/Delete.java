@@ -1,4 +1,3 @@
-
 package Crud;
 
 import javax.persistence.*;
